@@ -21,6 +21,11 @@ batch
 - ¿Cómo manejarías la multicanalidad?
 
 
+## __GRAFICA__
+---
+
+![Grafica de arquitectura](grafica-2.png)
+
 ### Respuesta 1
 ---
 En esta pregunta usare como arquitectura de solucion nube AWS. Como tendre expuesta un __API GATEWAY__ invocado por __dyamic api https__.
