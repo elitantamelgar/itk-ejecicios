@@ -23,6 +23,7 @@ datos?
 ## __GRAFICA__
 ---
 
+![Grafica de base de datos](grafica-1.png)
 
 
 ## __Respuesta 1__
